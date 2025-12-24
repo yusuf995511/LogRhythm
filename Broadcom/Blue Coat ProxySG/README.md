@@ -1358,8 +1358,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Community Support
 
 - **GitHub Issues**: [Open an issue](https://github.com/yusuf995511/bluecoat-logrhythm/issues)
-- **Discussions**: [Join the discussion](https://github.com/yusuf995511/bluecoat-logrhythm/discussions)
-- **Wiki**: [Browse the wiki](https://github.com/yusuf995511/bluecoat-logrhythm/wiki)
 
 ### Vendor Support
 
@@ -1403,15 +1401,9 @@ For professional implementation assistance, contact your Broadcom or LogRhythm r
 - [ ] LogRhythm dashboard templates (JSON)
 - [ ] MPE policy examples
 - [ ] Automated testing scripts
-- [ ] Docker test environment
 
 ### Planned 📅
-- [ ] Splunk integration guide
-- [ ] QRadar integration guide
-- [ ] Elasticsearch integration guide
 - [ ] Automated deployment scripts (Ansible)
-- [ ] Prometheus exporter for metrics
-- [ ] Grafana dashboards
 
 ---
 
