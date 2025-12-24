@@ -1419,8 +1419,6 @@ For professional implementation assistance, contact your Broadcom or LogRhythm r
 
 **⭐ Star this repo if you found it helpful!**
 
-**Made with ❤️ by the community**
-
 [Back to Top](#blue-coat-proxysg-to-logrhythm-siem-integration-guide)
 
 </div>
