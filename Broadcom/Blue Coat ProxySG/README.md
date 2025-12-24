@@ -11,11 +11,11 @@
 
 *Zero Log Loss | Complete Visibility | Production Ready*
 
-[Features](#features) •
-[Prerequisites](#prerequisites) •
-[Quick Start](#quick-start) •
-[Configuration](#detailed-configuration) •
-[Contributing](#contributing)
+[Features](#-features) •
+[Prerequisites](#-prerequisites) •
+[Quick Start](#-quick-start) •
+[Configuration](#-detailed-configuration) •
+[Contributing](#-contributing)
 
 </div>
 
@@ -23,12 +23,12 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Architecture](#architecture)
-- [Quick Start](#quick-start)
-- [Detailed Configuration](#detailed-configuration)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Prerequisites](#-prerequisites)
+- [Architecture](#%EF%B8%8F-architecture)
+- [Quick Start](#-quick-start)
+- [Detailed Configuration](#-detailed-configuration)
   - [Phase 1: ProxySG Access Log Configuration](#phase-1-proxysg-access-log-configuration)
   - [Phase 2: Enable All Event Logs](#phase-2-enable-all-event-logs)
   - [Phase 3: SSL/TLS Interception Logging](#phase-3-ssltls-interception-logging)
@@ -41,13 +41,13 @@
   - [Phase 10: Verification & Testing](#phase-10-verification--testing)
   - [Phase 11: Create Monitoring & Alerting](#phase-11-create-monitoring--alerting)
   - [Phase 12: Documentation & Maintenance](#phase-12-documentation--maintenance)
-- [Verification Checklist](#verification-checklist)
-- [Troubleshooting](#troubleshooting)
-- [Best Practices](#best-practices)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
+- [Verification Checklist](#-verification-checklist)
+- [Troubleshooting](#-troubleshooting)
+- [Best Practices](#-best-practices)
+- [FAQ](#-faq)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
 
 ---
 
@@ -210,7 +210,7 @@ Example: `(1,000,000 requests × 1KB × 90 days) = ~85 GB`
 
 ### For the Impatient
 
-> ⚠️ **Warning**: This is a simplified quick start. For production environments, follow the [Detailed Configuration](#detailed-configuration) section.
+> ⚠️ **Warning**: This is a simplified quick start. For production environments, follow the [Detailed Configuration](#-detailed-configuration) section.
 
 1. **ProxySG**: Create custom log format with 50+ fields (see Phase 1)
 2. **ProxySG**: Configure syslog destination to LogRhythm IP:514/TCP
@@ -225,7 +225,7 @@ Example: `(1,000,000 requests × 1KB × 90 days) = ~85 GB`
 ### Recommended Approach
 
 1. Complete the [Pre-Flight Checklist](./PRE_FLIGHT_CHECKLIST.md) ✅
-2. Follow the [Detailed Configuration](#detailed-configuration) (2-4 hours)
+2. Follow the [Detailed Configuration](#-detailed-configuration) (2-4 hours)
 3. Run [Verification Tests](#phase-10-verification--testing) ✅
 4. Configure [Monitoring & Alerting](#phase-11-create-monitoring--alerting) ✅
 
@@ -1357,9 +1357,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Community Support
 
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/bluecoat-logrhythm/issues)
-- **Discussions**: [Join the discussion](https://github.com/yourusername/bluecoat-logrhythm/discussions)
-- **Wiki**: [Browse the wiki](https://github.com/yourusername/bluecoat-logrhythm/wiki)
+- **GitHub Issues**: [Open an issue](https://github.com/yusuf995511/bluecoat-logrhythm/issues)
+- **Discussions**: [Join the discussion](https://github.com/yusuf995511/bluecoat-logrhythm/discussions)
+- **Wiki**: [Browse the wiki](https://github.com/yusuf995511/bluecoat-logrhythm/wiki)
 
 ### Vendor Support
 
@@ -1383,11 +1383,11 @@ For professional implementation assistance, contact your Broadcom or LogRhythm r
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/bluecoat-logrhythm?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/bluecoat-logrhythm?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/bluecoat-logrhythm)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/bluecoat-logrhythm)
-![Last commit](https://img.shields.io/github/last-commit/yourusername/bluecoat-logrhythm)
+![GitHub stars](https://img.shields.io/github/stars/yusuf995511/bluecoat-logrhythm?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yusuf995511/bluecoat-logrhythm?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yusuf995511/bluecoat-logrhythm)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yusuf995511/bluecoat-logrhythm)
+![Last commit](https://img.shields.io/github/last-commit/yusuf995511/bluecoat-logrhythm)
 
 ---
 
@@ -1418,7 +1418,7 @@ For professional implementation assistance, contact your Broadcom or LogRhythm r
 ## 📞 Contact
 
 **Project Maintainer**: Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yusuf995511](https://github.com/yusuf995511)
 - Email: your.email@example.com
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
