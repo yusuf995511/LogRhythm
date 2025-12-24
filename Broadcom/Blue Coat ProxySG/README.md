@@ -14,7 +14,7 @@
 [Features](#features) •
 [Prerequisites](#prerequisites) •
 [Quick Start](#quick-start) •
-[Documentation](#documentation) •
+[Configuration](#detailed-configuration) •
 [Contributing](#contributing)
 
 </div>
@@ -29,7 +29,7 @@
 - [Architecture](#architecture)
 - [Quick Start](#quick-start)
 - [Detailed Configuration](#detailed-configuration)
-  - [Phase 1: ProxySG Access Log Configuration](#phase-1-proxySg-access-log-configuration)
+  - [Phase 1: ProxySG Access Log Configuration](#phase-1-proxysg-access-log-configuration)
   - [Phase 2: Enable All Event Logs](#phase-2-enable-all-event-logs)
   - [Phase 3: SSL/TLS Interception Logging](#phase-3-ssltls-interception-logging)
   - [Phase 4: Advanced Threat Protection Logging](#phase-4-advanced-threat-protection-logging)
@@ -1350,30 +1350,6 @@ Please be respectful and constructive. We're all here to help each other succeed
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
 ---
 
