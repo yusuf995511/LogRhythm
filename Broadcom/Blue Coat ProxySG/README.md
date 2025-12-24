@@ -1417,10 +1417,9 @@ For professional implementation assistance, contact your Broadcom or LogRhythm r
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name
+**Project Maintainer**: Yousuf Al Sirairi
 - GitHub: [@yusuf995511](https://github.com/yusuf995511)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Yousuf Al Sirairi](https://linkedin.com/in/yousuf-al-sirairi-7b5225150)
 
 ---
 
