@@ -1379,16 +1379,6 @@ For professional implementation assistance, contact your Broadcom or LogRhythm r
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yusuf995511/bluecoat-logrhythm?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yusuf995511/bluecoat-logrhythm?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yusuf995511/bluecoat-logrhythm)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yusuf995511/bluecoat-logrhythm)
-![Last commit](https://img.shields.io/github/last-commit/yusuf995511/bluecoat-logrhythm)
-
----
-
 ## 🗺️ Roadmap
 
 ### Completed ✅
