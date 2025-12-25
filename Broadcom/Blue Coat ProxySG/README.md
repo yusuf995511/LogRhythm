@@ -1357,7 +1357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Community Support
 
-- **GitHub Issues**: [Open an issue](https://github.com/yusuf995511/bluecoat-logrhythm/issues)
+- **GitHub Issues**: [Open an issue](https://github.com/yusuf995511/LogRhythm/issues)
 
 ### Vendor Support
 
